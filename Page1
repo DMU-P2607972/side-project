@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <!-- the following meta data makes font size right on mobile devices  -->
+      <!-- and prevents zoom -->
+      <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0">
+      <link rel="stylesheet" href="side-css.css">
+      <title>Home</title>
+  </head>
+
+  <body scrollable="true">
+    <div id="container">
+      <div id="header">Side Website</div>
+      <div id="main"></div>
+      <div id="footer"></div>
+    </div>
+    <script>
+    </script>
+  </body>
+</html>
