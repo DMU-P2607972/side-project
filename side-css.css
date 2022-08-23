@@ -34,4 +34,6 @@ html, body {
   gwidth: 50vw;
   border-radius: 50px;
   border: 10px bold #12C29F;
+  padding: 10vw;
+  margin: 10vw;
 }
