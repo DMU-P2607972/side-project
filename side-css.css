@@ -27,3 +27,11 @@ html, body {
   height: 60px; /*footer height*/
   background: #DAEDEB;
 }
+
+.shape {
+  background: #12C22F;
+  height: 50vw;
+  gwidth: 50vw;
+  border-radius: 50px;
+  border: 10px bold #12C29F;
+}
