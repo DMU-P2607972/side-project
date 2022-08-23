@@ -33,9 +33,9 @@ html, body {
 .shape {
   background: #12C22F;
   height: 50vw;
-  gwidth: 50vw;
-  border-radius: 50px;
-  border: 10px bold #12C29F;
+  width: 50vw;
+  border-radius: 100px;
+  border: 50px solid #12C29F;
   padding: 10vw;
   margin: 10vw;
 }
